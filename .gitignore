@@ -1,0 +1,6 @@
+
+.streamlit/secrets.toml
+suno.db
+uploads/
+.venv/
+__pycache__/
